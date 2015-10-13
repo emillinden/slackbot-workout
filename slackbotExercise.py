@@ -12,8 +12,8 @@ import datetime
 from User import User
 
 # Environment variables must be set with your tokens
-USER_TOKEN_STRING =  os.environ['SLACK_USER_TOKEN_STRING']
-URL_TOKEN_STRING =  os.environ['SLACK_URL_TOKEN_STRING']
+USER_TOKEN_STRING =  os.environ['xoxp-3685405784-3685434164-12379508707-9a851c8041']
+URL_TOKEN_STRING =  os.environ['FbkP8gphtGj3HCLGE5rglM0X']
 
 HASH = "%23"
 
